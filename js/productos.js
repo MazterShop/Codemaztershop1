@@ -16,7 +16,7 @@ const productosStore = [
         descripcionCorta: "Tienda virtual moderna con panel de distribuidores y códigos de referido.",
         descripcionLarga: "Plataforma lista para vender productos digitales y físicos con sistema de referidos y control administrativo seguro.",
         precio: 200.000,
-        enlaceDemo: "/demos/rifamazter/index.html",
+        enlaceDemo: "demos/rifamazter/index.html",
         imagen: "imagenes/1.png",
         etiquetas: ["PHP", "JavaScript", "Tienda"]
     },
